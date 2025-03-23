@@ -1,0 +1,13 @@
+# March 2025
+Hello, I'm learning Python, and started a medium sized project with the Chords Generator for this purpose
+I don't want anyone to pull features, as I want to develop them myself, until at least the 1.0 is out, but you can give insight on how I should go about things.
+
+What I plan to develop myself :
+- Giving a BPM, and also beeping alongside it
+- The ability to chose how many chords in the progression we want
+- The probability of having 7th chords in the result, either by enlarging the dictionaries of progressions or doing live modifications (?)
+- A basic GUI
+
+What may happen only after 1.0 :
+- Generating pictures/diagrams of the chords, for guitar and piano
+- Leting you save the generation in files afterward
